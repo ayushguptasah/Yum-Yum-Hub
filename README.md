@@ -1,6 +1,6 @@
 # Food Delivery Website
 ## Overview:
-The "Food Delivery Website" project aims to create a robust, scalable, and user-friendly platform for online food ordering and delivery. The website will be built using the MERN stack (MongoDB, Express, React JS, and Node JS) for efficient front-end and back-end development, with Stripe integrated for secure and seamless payment processing.
+This "Food Delivery Website" aims to develop a robust, scalable, and user-friendly platform for online food ordering and delivery. Utilizing the MERN stack (MongoDB, Express, React JS, and Node JS), the website will offer efficient front-end and back-end functionality. Key features include a responsive design for easy meal browsing and ordering, user authentication, and real-time order tracking. The platform will also feature an admin dashboard for managing restaurants and menus. Stripe integration will be used for secure and seamless payment processing, ensuring a smooth user experience and data security.
 
 ## Objectives:
 1. User Experience: Provide a smooth and intuitive user interface for customers to browse, order, and pay for food from various restaurants.
