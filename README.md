@@ -20,14 +20,13 @@ This "Food Delivery Website" aims to develop a robust, scalable, and user-friend
 ## Back-End (Node JS, Express)
 1. API Development: RESTful APIs for data interaction between the front-end and back-end.
 2. Database Management (MongoDB): Store and manage data for users, orders, menus, and payments.
-3. Security: Implement JWT for user authentication and authorization, ensuring data security.
 
 ## Technical Stack
 1. Front-End: React JS, HTML5, CSS3, JavaScript
 2. Back-End: Node JS, Express
 3. Database: MongoDB
 4. Payment Gateway: Stripe
-5. Other Tools: Git for version control, Docker for containerization (if required), and cloud services (AWS, Azure, or similar) for hosting and scalability.
+5. Other Tools: Git for version control.
 
 ## Conclusion
 The Food Delivery Website project aims to deliver a comprehensive solution for online food ordering and delivery, focusing on user experience, security, and scalability. By leveraging the MERN stack and integrating Stripe for payments, the project will provide a solid foundation for a modern, feature-rich food delivery platform.
