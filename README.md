@@ -22,11 +22,6 @@ This "Food Delivery Website" aims to develop a robust, scalable, and user-friend
 2. Database Management (MongoDB): Store and manage data for users, orders, menus, and payments.
 3. Security: Implement JWT for user authentication and authorization, ensuring data security.
 
-## Payment Integration (Stripe)
-1. Payment Processing: Secure payment gateway for handling transactions.
-2. Subscription Management: For premium features or membership plans, if applicable.
-3. Refunds and Disputes: Easy management of refunds and dispute resolution.
-
 ## Technical Stack
 1. Front-End: React JS, HTML5, CSS3, JavaScript
 2. Back-End: Node JS, Express
