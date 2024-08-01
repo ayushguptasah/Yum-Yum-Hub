@@ -1,4 +1,4 @@
-# Food Delivery Website
+# Yum Yum Hub (Food Delivery Website)
 ## Overview:
 This "Food Delivery Website" aims to develop a robust, scalable, and user-friendly platform for online food ordering and delivery. Utilizing the MERN stack (MongoDB, Express, React JS, and Node JS), the website will offer efficient front-end and back-end functionality. Key features include a responsive design for easy meal browsing and ordering, user authentication, and real-time order tracking. The platform will also feature an admin dashboard for managing restaurants and menus. Stripe integration will be used for secure and seamless payment processing, ensuring a smooth user experience and data security.
 
